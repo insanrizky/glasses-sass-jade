@@ -1,5 +1,6 @@
 # glasses-sass-jade
 
-Create Pixel Art (Thug Life's Glasses) using Sass and Jade
-Author: Muhamad Insan Rizky
-Date: 17 August 2016
+<h3>Create a Pixel Art <i>(Thug Life's Glasses)</i> using Sass and Jade</h3>
+<br/>
+<b>Author:</b> Muhamad Insan Rizky<br/>
+<b>Date:</b> 17 August 2016
